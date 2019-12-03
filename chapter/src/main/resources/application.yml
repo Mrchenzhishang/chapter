@@ -1,0 +1,9 @@
+server:
+    port: 8090
+spring:
+    freemarker:
+        checkTemplateLocation: false
+    mvc:
+        view:
+            prefix: /WEB-INF/jsp/
+            suffix: .jsp
