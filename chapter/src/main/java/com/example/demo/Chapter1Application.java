@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 @EnableAutoConfiguration
+//http://127.0.0.1:8090/test
 public class Chapter1Application {
 	@RequestMapping("/test")
     @ResponseBody

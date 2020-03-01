@@ -10,7 +10,7 @@
 		<config>src/main/java/com/example/demo/Chapter2Application.java</config>
 	</configs>
 	<autoconfigs>
-		<config>java:com.example.demo.ChapterApplication</config>
+		<config>java:com.example.demo.Chapter1Application</config>
 	</autoconfigs>
 	<configSets>
 	</configSets>
